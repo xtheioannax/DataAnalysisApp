@@ -1,0 +1,501 @@
+student_id,name,age,major,math_score,science_score,english_score,study_hours,gpa,region
+1,Alice Johnson,20,Statistics,85,88,82,15,3.2,North
+2,Bob Smith,19,Mathematics,92,85,88,20,3.7,South
+3,Charlie Brown,21,Statistics,78,92,85,12,3.1,East
+4,Diana Prince,20,Physics,96,89,91,25,3.9,West
+5,Eve Wilson,22,Mathematics,88,91,87,18,3.5,North
+6,Frank Miller,19,Physics,76,87,89,10,3.0,South
+7,Grace Lee,20,Statistics,91,94,86,22,3.8,East
+8,Henry Davis,21,Mathematics,84,86,92,16,3.4,West
+9,Ivy Chen,19,Statistics,89,90,84,19,3.6,North
+10,Jack Taylor,20,Physics,93,88,90,21,3.7,South
+11,Kate Adams,21,Statistics,87,85,88,17,3.3,East
+12,Liam Murphy,20,Mathematics,90,92,86,23,3.8,West
+13,Mia Rodriguez,19,Physics,82,89,91,14,3.2,North
+14,Noah Johnson,22,Statistics,94,87,89,24,3.9,South
+15,Olivia White,20,Mathematics,86,90,85,16,3.5,East
+16,Paul Garcia,21,Physics,79,88,87,13,3.1,West
+17,Quinn Lewis,19,Statistics,88,93,90,20,3.7,North
+18,Ruby Martinez,20,Mathematics,91,86,88,22,3.6,South
+19,Sam Anderson,21,Physics,85,91,84,18,3.4,East
+20,Tina Clark,20,Statistics,89,89,92,19,3.6,West
+21,Sofia Kim,19,Computer Science,94,91,86,24,3.8,North
+22,Alex Thompson,20,Engineering,88,93,84,21,3.6,South
+23,Maya Patel,21,Biology,83,95,89,19,3.7,East
+24,Ryan O'Connor,19,Statistics,90,87,91,22,3.8,West
+25,Zoe Campbell,20,Mathematics,87,89,88,18,3.5,North
+26,David Chang,22,Physics,92,90,85,26,3.9,South
+27,Emma Foster,19,Computer Science,85,88,92,17,3.4,East
+28,Lucas Wright,21,Engineering,89,92,87,23,3.7,West
+29,Ava Martinez,20,Biology,91,94,86,20,3.8,North
+30,Ethan Brown,19,Statistics,86,85,90,16,3.3,South
+31,Isabella Garcia,21,Mathematics,88,91,84,19,3.6,East
+32,Mason Lee,20,Physics,93,89,88,25,3.9,West
+33,Sophie Wilson,19,Computer Science,84,87,91,15,3.2,North
+34,Jackson Davis,22,Engineering,90,93,85,24,3.8,South
+35,Chloe Anderson,20,Biology,87,96,89,21,3.7,East
+36,Logan Miller,21,Statistics,89,88,92,18,3.5,West
+37,Grace Taylor,19,Mathematics,91,90,86,22,3.7,North
+38,Connor Johnson,20,Physics,85,92,88,17,3.4,South
+39,Lily Rodriguez,21,Computer Science,92,87,90,23,3.8,East
+40,Hunter Martinez,19,Engineering,88,89,87,20,3.6,West
+41,Aria Smith,20,Biology,86,94,91,19,3.6,North
+42,Caleb Garcia,22,Statistics,90,86,89,25,3.8,South
+43,Nora Wilson,19,Mathematics,87,91,85,16,3.4,East
+44,Owen Brown,21,Physics,94,88,92,24,3.9,West
+45,Hazel Davis,20,Computer Science,83,90,88,18,3.5,North
+46,Eli Thompson,19,Engineering,89,93,86,21,3.7,South
+47,Violet Lee,21,Biology,91,95,87,22,3.8,East
+48,Grayson Miller,20,Statistics,88,87,90,19,3.6,West
+49,Scarlett Anderson,19,Mathematics,85,89,91,17,3.4,North
+50,Leo Johnson,22,Physics,92,91,84,26,3.9,South
+51,Stella Rodriguez,20,Computer Science,87,88,92,20,3.6,East
+52,Adrian Martinez,21,Engineering,90,94,86,23,3.8,West
+53,Claire Smith,19,Biology,86,92,89,18,3.5,North
+54,Ian Garcia,20,Statistics,89,85,91,21,3.7,South
+55,Aurora Wilson,21,Mathematics,91,90,85,24,3.8,East
+56,Jaxon Brown,19,Physics,84,87,88,15,3.2,West
+57,Nova Davis,20,Computer Science,88,91,90,19,3.6,North
+58,Kai Thompson,22,Engineering,93,89,87,25,3.9,South
+59,Luna Lee,19,Biology,87,94,91,17,3.4,East
+60,Felix Miller,21,Statistics,90,88,89,22,3.7,West
+61,Sage Anderson,20,Mathematics,85,92,86,20,3.6,North
+62,River Johnson,19,Physics,89,90,92,18,3.5,South
+63,Willow Rodriguez,21,Computer Science,91,87,88,23,3.8,East
+64,Atlas Martinez,20,Engineering,86,93,85,21,3.7,West
+65,Iris Smith,19,Biology,88,95,90,19,3.6,North
+66,Phoenix Garcia,22,Statistics,92,86,89,26,3.9,South
+67,Indie Wilson,20,Mathematics,87,91,87,18,3.5,East
+68,Orion Brown,21,Physics,90,88,91,24,3.8,West
+69,Wren Davis,19,Computer Science,84,89,92,16,3.3,North
+70,Rowan Thompson,20,Engineering,89,92,86,22,3.7,South
+71,Skye Lee,21,Biology,91,94,88,25,3.8,East
+72,Cruz Miller,19,Statistics,86,87,90,17,3.4,West
+73,Ember Anderson,20,Mathematics,88,90,85,20,3.6,North
+74,Sage Johnson,22,Physics,93,91,89,27,3.9,South
+75,River Rodriguez,19,Computer Science,85,88,91,18,3.5,East
+76,Ocean Martinez,21,Engineering,90,93,87,23,3.8,West
+77,Sky Smith,20,Biology,87,95,86,21,3.7,North
+78,Stone Garcia,19,Statistics,89,86,92,19,3.6,South
+79,Reed Wilson,21,Mathematics,91,90,88,24,3.8,East
+80,Clay Brown,20,Physics,84,89,90,16,3.3,West
+81,Sage Davis,19,Computer Science,88,91,89,22,3.7,North
+82,Vale Thompson,22,Engineering,92,87,91,25,3.9,South
+83,Fern Lee,20,Biology,86,94,85,20,3.6,East
+84,Flint Miller,21,Statistics,90,88,87,23,3.8,West
+85,Brook Anderson,19,Mathematics,87,92,90,18,3.5,North
+86,Ridge Johnson,20,Physics,89,90,88,21,3.7,South
+87,Dawn Rodriguez,21,Computer Science,91,86,91,24,3.8,East
+88,Vale Martinez,19,Engineering,85,93,86,17,3.4,West
+89,Sage Smith,20,Biology,88,95,89,22,3.7,North
+90,River Garcia,22,Statistics,93,87,92,26,3.9,South
+91,Aspen Wilson,19,Mathematics,86,91,85,19,3.6,East
+92,Canyon Brown,21,Physics,90,89,88,25,3.8,West
+93,Delta Davis,20,Computer Science,87,88,91,18,3.5,North
+94,Echo Thompson,19,Engineering,89,92,87,21,3.7,South
+95,Fox Lee,21,Biology,91,94,86,23,3.8,East
+96,Grove Miller,20,Statistics,84,86,90,16,3.3,West
+97,Haven Anderson,19,Mathematics,88,90,89,20,3.6,North
+98,Iris Johnson,22,Physics,92,91,85,27,3.9,South
+99,Jade Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+100,Knox Martinez,21,Engineering,90,93,88,24,3.8,West
+101,Lark Smith,19,Biology,87,95,86,18,3.5,North
+102,Moss Garcia,20,Statistics,89,88,91,22,3.7,South
+103,Nash Wilson,21,Mathematics,91,90,87,25,3.8,East
+104,Oak Brown,19,Physics,85,89,89,17,3.4,West
+105,Pike Davis,20,Computer Science,88,91,90,21,3.7,North
+106,Quill Thompson,22,Engineering,93,87,88,26,3.9,South
+107,Rain Lee,19,Biology,86,94,91,19,3.6,East
+108,Sage Miller,21,Statistics,90,86,89,23,3.8,West
+109,Tide Anderson,20,Mathematics,87,92,85,20,3.6,North
+110,Vale Johnson,19,Physics,89,90,88,18,3.5,South
+111,West Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+112,Zane Martinez,20,Engineering,84,93,86,16,3.3,West
+113,Alba Smith,19,Biology,88,95,90,22,3.7,North
+114,Beau Garcia,22,Statistics,92,87,89,27,3.9,South
+115,Cove Wilson,20,Mathematics,86,91,87,19,3.6,East
+116,Dell Brown,21,Physics,90,89,91,25,3.8,West
+117,Ever Davis,19,Computer Science,87,88,88,18,3.5,North
+118,Faye Thompson,20,Engineering,89,92,86,23,3.7,South
+119,Glen Lee,21,Biology,91,94,85,21,3.7,East
+120,Hart Miller,19,Statistics,85,86,90,17,3.4,West
+121,Isle Anderson,20,Mathematics,88,90,89,20,3.6,North
+122,Jett Johnson,22,Physics,93,91,87,26,3.9,South
+123,Kale Rodriguez,19,Computer Science,86,87,92,19,3.6,East
+124,Lane Martinez,21,Engineering,90,93,88,24,3.8,West
+125,Mare Smith,20,Biology,87,95,86,22,3.7,North
+126,Noel Garcia,19,Statistics,89,88,91,18,3.5,South
+127,Onyx Wilson,21,Mathematics,91,90,87,25,3.8,East
+128,Page Brown,20,Physics,84,89,90,16,3.3,West
+129,Quinn Davis,19,Computer Science,88,91,89,21,3.7,North
+130,Raze Thompson,22,Engineering,92,87,91,27,3.9,South
+131,Shay Lee,20,Biology,86,94,85,20,3.6,East
+132,Teal Miller,21,Statistics,90,86,88,23,3.8,West
+133,Vale Anderson,19,Mathematics,87,92,90,18,3.5,North
+134,Wade Johnson,20,Physics,89,90,87,22,3.7,South
+135,Xara Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+136,Yale Martinez,19,Engineering,85,93,86,17,3.4,West
+137,Zara Smith,20,Biology,88,95,89,21,3.7,North
+138,Axel Garcia,22,Statistics,93,87,91,26,3.9,South
+139,Blye Wilson,19,Mathematics,86,91,85,19,3.6,East
+140,Cade Brown,21,Physics,90,89,88,25,3.8,West
+141,Drew Davis,20,Computer Science,87,88,90,18,3.5,North
+142,Elle Thompson,19,Engineering,89,92,87,22,3.7,South
+143,Ford Lee,21,Biology,91,94,86,23,3.8,East
+144,Grey Miller,20,Statistics,84,86,91,16,3.3,West
+145,Hope Anderson,19,Mathematics,88,90,89,20,3.6,North
+146,Ivan Johnson,22,Physics,92,91,85,27,3.9,South
+147,Juno Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+148,Knox Martinez,21,Engineering,90,93,88,24,3.8,West
+149,Lynn Smith,19,Biology,87,95,86,18,3.5,North
+150,Mars Garcia,20,Statistics,89,88,90,22,3.7,South
+151,Nova Wilson,21,Mathematics,91,90,87,25,3.8,East
+152,Oslo Brown,19,Physics,85,89,89,17,3.4,West
+153,Penn Davis,20,Computer Science,88,91,91,21,3.7,North
+154,Quin Thompson,22,Engineering,93,87,88,26,3.9,South
+155,Rise Lee,19,Biology,86,94,86,19,3.6,East
+156,Sage Miller,21,Statistics,90,86,92,23,3.8,West
+157,Tavi Anderson,20,Mathematics,87,92,85,20,3.6,North
+158,Vale Johnson,19,Physics,89,90,88,18,3.5,South
+159,Wade Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+160,Xavi Martinez,20,Engineering,84,93,87,16,3.3,West
+161,York Smith,19,Biology,88,95,91,22,3.7,North
+162,Zeke Garcia,22,Statistics,92,87,89,27,3.9,South
+163,Aria Wilson,20,Mathematics,86,91,86,19,3.6,East
+164,Beck Brown,21,Physics,90,89,88,25,3.8,West
+165,Cleo Davis,19,Computer Science,87,88,92,18,3.5,North
+166,Drew Thompson,20,Engineering,89,92,87,23,3.7,South
+167,Eden Lee,21,Biology,91,94,85,21,3.7,East
+168,Finn Miller,19,Statistics,85,86,90,17,3.4,West
+169,Gage Anderson,20,Mathematics,88,90,89,20,3.6,North
+170,Hale Johnson,22,Physics,93,91,88,26,3.9,South
+171,Iris Rodriguez,19,Computer Science,86,87,91,19,3.6,East
+172,Jace Martinez,21,Engineering,90,93,86,24,3.8,West
+173,Kane Smith,20,Biology,87,95,87,22,3.7,North
+174,Lane Garcia,19,Statistics,89,88,92,18,3.5,South
+175,Mare Wilson,21,Mathematics,91,90,85,25,3.8,East
+176,Nash Brown,20,Physics,84,89,90,16,3.3,West
+177,Onyx Davis,19,Computer Science,88,91,89,21,3.7,North
+178,Page Thompson,22,Engineering,92,87,91,27,3.9,South
+179,Quin Lee,20,Biology,86,94,86,20,3.6,East
+180,Raze Miller,21,Statistics,90,86,88,23,3.8,West
+181,Sage Anderson,19,Mathematics,87,92,90,18,3.5,North
+182,Teal Johnson,20,Physics,89,90,87,22,3.7,South
+183,Vale Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+184,Wade Martinez,19,Engineering,85,93,86,17,3.4,West
+185,Xara Smith,20,Biology,88,95,89,21,3.7,North
+186,Yale Garcia,22,Statistics,93,87,91,26,3.9,South
+187,Zara Wilson,19,Mathematics,86,91,85,19,3.6,East
+188,Axel Brown,21,Physics,90,89,88,25,3.8,West
+189,Blye Davis,20,Computer Science,87,88,90,18,3.5,North
+190,Cade Thompson,19,Engineering,89,92,87,22,3.7,South
+191,Drew Lee,21,Biology,91,94,86,23,3.8,East
+192,Elle Miller,20,Statistics,84,86,91,16,3.3,West
+193,Ford Anderson,19,Mathematics,88,90,89,20,3.6,North
+194,Grey Johnson,22,Physics,92,91,85,27,3.9,South
+195,Hope Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+196,Ivan Martinez,21,Engineering,90,93,88,24,3.8,West
+197,Juno Smith,19,Biology,87,95,86,18,3.5,North
+198,Knox Garcia,20,Statistics,89,88,90,22,3.7,South
+199,Lynn Wilson,21,Mathematics,91,90,87,25,3.8,East
+200,Mars Brown,19,Physics,85,89,89,17,3.4,West
+201,Nova Davis,20,Computer Science,88,91,91,21,3.7,North
+202,Oslo Thompson,22,Engineering,93,87,88,26,3.9,South
+203,Penn Lee,19,Biology,86,94,86,19,3.6,East
+204,Quin Miller,21,Statistics,90,86,92,23,3.8,West
+205,Rise Anderson,20,Mathematics,87,92,85,20,3.6,North
+206,Sage Johnson,19,Physics,89,90,88,18,3.5,South
+207,Tavi Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+208,Vale Martinez,20,Engineering,84,93,87,16,3.3,West
+209,Wade Smith,19,Biology,88,95,91,22,3.7,North
+210,Xavi Garcia,22,Statistics,92,87,89,27,3.9,South
+211,York Wilson,20,Mathematics,86,91,86,19,3.6,East
+212,Zeke Brown,21,Physics,90,89,88,25,3.8,West
+213,Aria Davis,19,Computer Science,87,88,92,18,3.5,North
+214,Beck Thompson,20,Engineering,89,92,87,23,3.7,South
+215,Cleo Lee,21,Biology,91,94,85,21,3.7,East
+216,Drew Miller,19,Statistics,85,86,90,17,3.4,West
+217,Eden Anderson,20,Mathematics,88,90,89,20,3.6,North
+218,Finn Johnson,22,Physics,93,91,88,26,3.9,South
+219,Gage Rodriguez,19,Computer Science,86,87,91,19,3.6,East
+220,Hale Martinez,21,Engineering,90,93,86,24,3.8,West
+221,Iris Smith,20,Biology,87,95,87,22,3.7,North
+222,Jace Garcia,19,Statistics,89,88,92,18,3.5,South
+223,Kane Wilson,21,Mathematics,91,90,85,25,3.8,East
+224,Lane Brown,20,Physics,84,89,90,16,3.3,West
+225,Mare Davis,19,Computer Science,88,91,89,21,3.7,North
+226,Nash Thompson,22,Engineering,92,87,91,27,3.9,South
+227,Onyx Lee,20,Biology,86,94,86,20,3.6,East
+228,Page Miller,21,Statistics,90,86,88,23,3.8,West
+229,Quin Anderson,19,Mathematics,87,92,90,18,3.5,North
+230,Raze Johnson,20,Physics,89,90,87,22,3.7,South
+231,Sage Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+232,Teal Martinez,19,Engineering,85,93,86,17,3.4,West
+233,Vale Smith,20,Biology,88,95,89,21,3.7,North
+234,Wade Garcia,22,Statistics,93,87,91,26,3.9,South
+235,Xara Wilson,19,Mathematics,86,91,85,19,3.6,East
+236,Yale Brown,21,Physics,90,89,88,25,3.8,West
+237,Zara Davis,20,Computer Science,87,88,90,18,3.5,North
+238,Axel Thompson,19,Engineering,89,92,87,22,3.7,South
+239,Blye Lee,21,Biology,91,94,86,23,3.8,East
+240,Cade Miller,20,Statistics,84,86,91,16,3.3,West
+241,Drew Anderson,19,Mathematics,88,90,89,20,3.6,North
+242,Elle Johnson,22,Physics,92,91,85,27,3.9,South
+243,Ford Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+244,Grey Martinez,21,Engineering,90,93,88,24,3.8,West
+245,Hope Smith,19,Biology,87,95,86,18,3.5,North
+246,Ivan Garcia,20,Statistics,89,88,90,22,3.7,South
+247,Juno Wilson,21,Mathematics,91,90,87,25,3.8,East
+248,Knox Brown,19,Physics,85,89,89,17,3.4,West
+249,Lynn Davis,20,Computer Science,88,91,91,21,3.7,North
+250,Mars Thompson,22,Engineering,93,87,88,26,3.9,South
+251,Nova Lee,19,Biology,86,94,86,19,3.6,East
+252,Oslo Miller,21,Statistics,90,86,92,23,3.8,West
+253,Penn Anderson,20,Mathematics,87,92,85,20,3.6,North
+254,Quin Johnson,19,Physics,89,90,88,18,3.5,South
+255,Rise Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+256,Sage Martinez,20,Engineering,84,93,87,16,3.3,West
+257,Tavi Smith,19,Biology,88,95,91,22,3.7,North
+258,Vale Garcia,22,Statistics,92,87,89,27,3.9,South
+259,Wade Wilson,20,Mathematics,86,91,86,19,3.6,East
+260,Xavi Brown,21,Physics,90,89,88,25,3.8,West
+261,York Davis,19,Computer Science,87,88,92,18,3.5,North
+262,Zeke Thompson,20,Engineering,89,92,87,23,3.7,South
+263,Aria Lee,21,Biology,91,94,85,21,3.7,East
+264,Beck Miller,19,Statistics,85,86,90,17,3.4,West
+265,Cleo Anderson,20,Mathematics,88,90,89,20,3.6,North
+266,Drew Johnson,22,Physics,93,91,88,26,3.9,South
+267,Eden Rodriguez,19,Computer Science,86,87,91,19,3.6,East
+268,Finn Martinez,21,Engineering,90,93,86,24,3.8,West
+269,Gage Smith,20,Biology,87,95,87,22,3.7,North
+270,Hale Garcia,19,Statistics,89,88,92,18,3.5,South
+271,Iris Wilson,21,Mathematics,91,90,85,25,3.8,East
+272,Jace Brown,20,Physics,84,89,90,16,3.3,West
+273,Kane Davis,19,Computer Science,88,91,89,21,3.7,North
+274,Lane Thompson,22,Engineering,92,87,91,27,3.9,South
+275,Mare Lee,20,Biology,86,94,86,20,3.6,East
+276,Nash Miller,21,Statistics,90,86,88,23,3.8,West
+277,Onyx Anderson,19,Mathematics,87,92,90,18,3.5,North
+278,Page Johnson,20,Physics,89,90,87,22,3.7,South
+279,Quin Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+280,Raze Martinez,19,Engineering,85,93,86,17,3.4,West
+281,Sage Smith,20,Biology,88,95,89,21,3.7,North
+282,Teal Garcia,22,Statistics,93,87,91,26,3.9,South
+283,Vale Wilson,19,Mathematics,86,91,85,19,3.6,East
+284,Wade Brown,21,Physics,90,89,88,25,3.8,West
+285,Xara Davis,20,Computer Science,87,88,90,18,3.5,North
+286,Yale Thompson,19,Engineering,89,92,87,22,3.7,South
+287,Zara Lee,21,Biology,91,94,86,23,3.8,East
+288,Axel Miller,20,Statistics,84,86,91,16,3.3,West
+289,Blye Anderson,19,Mathematics,88,90,89,20,3.6,North
+290,Cade Johnson,22,Physics,92,91,85,27,3.9,South
+291,Drew Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+292,Elle Martinez,21,Engineering,90,93,88,24,3.8,West
+293,Ford Smith,19,Biology,87,95,86,18,3.5,North
+294,Grey Garcia,20,Statistics,89,88,90,22,3.7,South
+295,Hope Wilson,21,Mathematics,91,90,87,25,3.8,East
+296,Ivan Brown,19,Physics,85,89,89,17,3.4,West
+297,Juno Davis,20,Computer Science,88,91,91,21,3.7,North
+298,Knox Thompson,22,Engineering,93,87,88,26,3.9,South
+299,Lynn Lee,19,Biology,86,94,86,19,3.6,East
+300,Mars Miller,21,Statistics,90,86,92,23,3.8,West
+301,Nova Anderson,20,Mathematics,87,92,85,20,3.6,North
+302,Oslo Johnson,19,Physics,89,90,88,18,3.5,South
+303,Penn Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+304,Quin Martinez,20,Engineering,84,93,87,16,3.3,West
+305,Rise Smith,19,Biology,88,95,91,22,3.7,North
+306,Sage Garcia,22,Statistics,92,87,89,27,3.9,South
+307,Tavi Wilson,20,Mathematics,86,91,86,19,3.6,East
+308,Vale Brown,21,Physics,90,89,88,25,3.8,West
+309,Wade Davis,19,Computer Science,87,88,92,18,3.5,North
+310,Xavi Thompson,20,Engineering,89,92,87,23,3.7,South
+311,York Lee,21,Biology,91,94,85,21,3.7,East
+312,Zeke Miller,19,Statistics,85,86,90,17,3.4,West
+313,Aria Anderson,20,Mathematics,88,90,89,20,3.6,North
+314,Beck Johnson,22,Physics,93,91,88,26,3.9,South
+315,Cleo Rodriguez,19,Computer Science,86,87,91,19,3.6,East
+316,Drew Martinez,21,Engineering,90,93,86,24,3.8,West
+317,Eden Smith,20,Biology,87,95,87,22,3.7,North
+318,Finn Garcia,19,Statistics,89,88,92,18,3.5,South
+319,Gage Wilson,21,Mathematics,91,90,85,25,3.8,East
+320,Hale Brown,20,Physics,84,89,90,16,3.3,West
+321,Iris Davis,19,Computer Science,88,91,89,21,3.7,North
+322,Jace Thompson,22,Engineering,92,87,91,27,3.9,South
+323,Kane Lee,20,Biology,86,94,86,20,3.6,East
+324,Lane Miller,21,Statistics,90,86,88,23,3.8,West
+325,Mare Anderson,19,Mathematics,87,92,90,18,3.5,North
+326,Nash Johnson,20,Physics,89,90,87,22,3.7,South
+327,Onyx Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+328,Page Martinez,19,Engineering,85,93,86,17,3.4,West
+329,Quin Smith,20,Biology,88,95,89,21,3.7,North
+330,Raze Garcia,22,Statistics,93,87,91,26,3.9,South
+331,Sage Wilson,19,Mathematics,86,91,85,19,3.6,East
+332,Teal Brown,21,Physics,90,89,88,25,3.8,West
+333,Vale Davis,20,Computer Science,87,88,90,18,3.5,North
+334,Wade Thompson,19,Engineering,89,92,87,22,3.7,South
+335,Xara Lee,21,Biology,91,94,86,23,3.8,East
+336,Yale Miller,20,Statistics,84,86,91,16,3.3,West
+337,Zara Anderson,19,Mathematics,88,90,89,20,3.6,North
+338,Axel Johnson,22,Physics,92,91,85,27,3.9,South
+339,Blye Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+340,Cade Martinez,21,Engineering,90,93,88,24,3.8,West
+341,Drew Smith,19,Biology,87,95,86,18,3.5,North
+342,Elle Garcia,20,Statistics,89,88,90,22,3.7,South
+343,Ford Wilson,21,Mathematics,91,90,87,25,3.8,East
+344,Grey Brown,19,Physics,85,89,89,17,3.4,West
+345,Hope Davis,20,Computer Science,88,91,91,21,3.7,North
+346,Ivan Thompson,22,Engineering,93,87,88,26,3.9,South
+347,Juno Lee,19,Biology,86,94,86,19,3.6,East
+348,Knox Miller,21,Statistics,90,86,92,23,3.8,West
+349,Lynn Anderson,20,Mathematics,87,92,85,20,3.6,North
+350,Mars Johnson,19,Physics,89,90,88,18,3.5,South
+351,Nova Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+352,Oslo Martinez,20,Engineering,84,93,87,16,3.3,West
+353,Penn Smith,19,Biology,88,95,91,22,3.7,North
+354,Quin Garcia,22,Statistics,92,87,89,27,3.9,South
+355,Rise Wilson,20,Mathematics,86,91,86,19,3.6,East
+356,Sage Brown,21,Physics,90,89,88,25,3.8,West
+357,Tavi Davis,19,Computer Science,87,88,92,18,3.5,North
+358,Vale Thompson,20,Engineering,89,92,87,23,3.7,South
+359,Wade Lee,21,Biology,91,94,85,21,3.7,East
+360,Xavi Miller,19,Statistics,85,86,90,17,3.4,West
+361,York Anderson,20,Mathematics,88,90,89,20,3.6,North
+362,Zeke Johnson,22,Physics,93,91,88,26,3.9,South
+363,Aria Rodriguez,19,Computer Science,86,87,91,19,3.6,East
+364,Beck Martinez,21,Engineering,90,93,86,24,3.8,West
+365,Cleo Smith,20,Biology,87,95,87,22,3.7,North
+366,Drew Garcia,19,Statistics,89,88,92,18,3.5,South
+367,Eden Wilson,21,Mathematics,91,90,85,25,3.8,East
+368,Finn Brown,20,Physics,84,89,90,16,3.3,West
+369,Gage Davis,19,Computer Science,88,91,89,21,3.7,North
+370,Hale Thompson,22,Engineering,92,87,91,27,3.9,South
+371,Iris Lee,20,Biology,86,94,86,20,3.6,East
+372,Jace Miller,21,Statistics,90,86,88,23,3.8,West
+373,Kane Anderson,19,Mathematics,87,92,90,18,3.5,North
+374,Lane Johnson,20,Physics,89,90,87,22,3.7,South
+375,Mare Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+376,Nash Martinez,19,Engineering,85,93,86,17,3.4,West
+377,Onyx Smith,20,Biology,88,95,89,21,3.7,North
+378,Page Garcia,22,Statistics,93,87,91,26,3.9,South
+379,Quin Wilson,19,Mathematics,86,91,85,19,3.6,East
+380,Raze Brown,21,Physics,90,89,88,25,3.8,West
+381,Sage Davis,20,Computer Science,87,88,90,18,3.5,North
+382,Teal Thompson,19,Engineering,89,92,87,22,3.7,South
+383,Vale Lee,21,Biology,91,94,86,23,3.8,East
+384,Wade Miller,20,Statistics,84,86,91,16,3.3,West
+385,Xara Anderson,19,Mathematics,88,90,89,20,3.6,North
+386,Yale Johnson,22,Physics,92,91,85,27,3.9,South
+387,Zara Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+388,Axel Martinez,21,Engineering,90,93,88,24,3.8,West
+389,Blye Smith,19,Biology,87,95,86,18,3.5,North
+390,Cade Garcia,20,Statistics,89,88,90,22,3.7,South
+391,Drew Wilson,21,Mathematics,91,90,87,25,3.8,East
+392,Elle Brown,19,Physics,85,89,89,17,3.4,West
+393,Ford Davis,20,Computer Science,88,91,91,21,3.7,North
+394,Grey Thompson,22,Engineering,93,87,88,26,3.9,South
+395,Hope Lee,19,Biology,86,94,86,19,3.6,East
+396,Ivan Miller,21,Statistics,90,86,92,23,3.8,West
+397,Juno Anderson,20,Mathematics,87,92,85,20,3.6,North
+398,Knox Johnson,19,Physics,89,90,88,18,3.5,South
+399,Lynn Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+400,Mars Martinez,20,Engineering,84,93,87,16,3.3,West
+401,Nova Smith,19,Biology,88,95,91,22,3.7,North
+402,Oslo Garcia,22,Statistics,92,87,89,27,3.9,South
+403,Penn Wilson,20,Mathematics,86,91,86,19,3.6,East
+404,Quin Brown,21,Physics,90,89,88,25,3.8,West
+405,Rise Davis,19,Computer Science,87,88,92,18,3.5,North
+406,Sage Thompson,20,Engineering,89,92,87,23,3.7,South
+407,Tavi Lee,21,Biology,91,94,85,21,3.7,East
+408,Vale Miller,19,Statistics,85,86,90,17,3.4,West
+409,Wade Anderson,20,Mathematics,88,90,89,20,3.6,North
+410,Xavi Johnson,22,Physics,93,91,88,26,3.9,South
+411,York Rodriguez,19,Computer Science,86,87,91,19,3.6,East
+412,Zeke Martinez,21,Engineering,90,93,86,24,3.8,West
+413,Aria Smith,20,Biology,87,95,87,22,3.7,North
+414,Beck Garcia,19,Statistics,89,88,92,18,3.5,South
+415,Cleo Wilson,21,Mathematics,91,90,85,25,3.8,East
+416,Drew Brown,20,Physics,84,89,90,16,3.3,West
+417,Eden Davis,19,Computer Science,88,91,89,21,3.7,North
+418,Finn Thompson,22,Engineering,92,87,91,27,3.9,South
+419,Gage Lee,20,Biology,86,94,86,20,3.6,East
+420,Hale Miller,21,Statistics,90,86,88,23,3.8,West
+421,Iris Anderson,19,Mathematics,87,92,90,18,3.5,North
+422,Jace Johnson,20,Physics,89,90,87,22,3.7,South
+423,Kane Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+424,Lane Martinez,19,Engineering,85,93,86,17,3.4,West
+425,Mare Smith,20,Biology,88,95,89,21,3.7,North
+426,Nash Garcia,22,Statistics,93,87,91,26,3.9,South
+427,Onyx Wilson,19,Mathematics,86,91,85,19,3.6,East
+428,Page Brown,21,Physics,90,89,88,25,3.8,West
+429,Quin Davis,20,Computer Science,87,88,90,18,3.5,North
+430,Raze Thompson,19,Engineering,89,92,87,22,3.7,South
+431,Sage Lee,21,Biology,91,94,86,23,3.8,East
+432,Teal Miller,20,Statistics,84,86,91,16,3.3,West
+433,Vale Anderson,19,Mathematics,88,90,89,20,3.6,North
+434,Wade Johnson,22,Physics,92,91,85,27,3.9,South
+435,Xara Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+436,Yale Martinez,21,Engineering,90,93,88,24,3.8,West
+437,Zara Smith,19,Biology,87,95,86,18,3.5,North
+438,Axel Garcia,20,Statistics,89,88,90,22,3.7,South
+439,Blye Wilson,21,Mathematics,91,90,87,25,3.8,East
+440,Cade Brown,19,Physics,85,89,89,17,3.4,West
+441,Drew Davis,20,Computer Science,88,91,91,21,3.7,North
+442,Elle Thompson,22,Engineering,93,87,88,26,3.9,South
+443,Ford Lee,19,Biology,86,94,86,19,3.6,East
+444,Grey Miller,21,Statistics,90,86,92,23,3.8,West
+445,Hope Anderson,20,Mathematics,87,92,85,20,3.6,North
+446,Ivan Johnson,19,Physics,89,90,88,18,3.5,South
+447,Juno Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+448,Knox Martinez,20,Engineering,84,93,87,16,3.3,West
+449,Lynn Smith,19,Biology,88,95,91,22,3.7,North
+450,Mars Garcia,22,Statistics,92,87,89,27,3.9,South
+451,Nova Wilson,20,Mathematics,86,91,86,19,3.6,East
+452,Oslo Brown,21,Physics,90,89,88,25,3.8,West
+453,Penn Davis,19,Computer Science,87,88,92,18,3.5,North
+454,Quin Thompson,20,Engineering,89,92,87,23,3.7,South
+455,Rise Lee,21,Biology,91,94,85,21,3.7,East
+456,Sage Miller,19,Statistics,85,86,90,17,3.4,West
+457,Tavi Anderson,20,Mathematics,88,90,89,20,3.6,North
+458,Vale Johnson,22,Physics,93,91,88,26,3.9,South
+459,Wade Rodriguez,19,Computer Science,86,87,91,19,3.6,East
+460,Xavi Martinez,21,Engineering,90,93,86,24,3.8,West
+461,York Smith,20,Biology,87,95,87,22,3.7,North
+462,Zeke Garcia,19,Statistics,89,88,92,18,3.5,South
+463,Aria Wilson,21,Mathematics,91,90,85,25,3.8,East
+464,Beck Brown,20,Physics,84,89,90,16,3.3,West
+465,Cleo Davis,19,Computer Science,88,91,89,21,3.7,North
+466,Drew Thompson,22,Engineering,92,87,91,27,3.9,South
+467,Eden Lee,20,Biology,86,94,86,20,3.6,East
+468,Finn Miller,21,Statistics,90,86,88,23,3.8,West
+469,Gage Anderson,19,Mathematics,87,92,90,18,3.5,North
+470,Hale Johnson,20,Physics,89,90,87,22,3.7,South
+471,Iris Rodriguez,21,Computer Science,91,88,92,24,3.8,East
+472,Jace Martinez,19,Engineering,85,93,86,17,3.4,West
+473,Kane Smith,20,Biology,88,95,89,21,3.7,North
+474,Lane Garcia,22,Statistics,93,87,91,26,3.9,South
+475,Mare Wilson,19,Mathematics,86,91,85,19,3.6,East
+476,Nash Brown,21,Physics,90,89,88,25,3.8,West
+477,Onyx Davis,20,Computer Science,87,88,90,18,3.5,North
+478,Page Thompson,19,Engineering,89,92,87,22,3.7,South
+479,Quin Lee,21,Biology,91,94,86,23,3.8,East
+480,Raze Miller,20,Statistics,84,86,91,16,3.3,West
+481,Sage Anderson,19,Mathematics,88,90,89,20,3.6,North
+482,Teal Johnson,22,Physics,92,91,85,27,3.9,South
+483,Vale Rodriguez,20,Computer Science,86,87,92,19,3.6,East
+484,Wade Martinez,21,Engineering,90,93,88,24,3.8,West
+485,Xara Smith,19,Biology,87,95,86,18,3.5,North
+486,Yale Garcia,20,Statistics,89,88,90,22,3.7,South
+487,Zara Wilson,21,Mathematics,91,90,87,25,3.8,East
+488,Axel Brown,19,Physics,85,89,89,17,3.4,West
+489,Blye Davis,20,Computer Science,88,91,91,21,3.7,North
+490,Cade Thompson,22,Engineering,93,87,88,26,3.9,South
+491,Drew Lee,19,Biology,86,94,86,19,3.6,East
+492,Elle Miller,21,Statistics,90,86,92,23,3.8,West
+493,Ford Anderson,20,Mathematics,87,92,85,20,3.6,North
+494,Grey Johnson,19,Physics,89,90,88,18,3.5,South
+495,Hope Rodriguez,21,Computer Science,91,88,90,24,3.8,East
+496,Ivan Martinez,20,Engineering,84,93,87,16,3.3,West
+497,Juno Smith,19,Biology,88,95,91,22,3.7,North
+498,Knox Garcia,22,Statistics,92,87,89,27,3.9,South
+499,Lynn Wilson,20,Mathematics,86,91,86,19,3.6,East
+500,Mars Brown,21,Physics,90,89,88,25,3.8,West
