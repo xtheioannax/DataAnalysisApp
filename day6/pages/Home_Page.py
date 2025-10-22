@@ -1,9 +1,25 @@
 # pages/Home_Page.py
 import streamlit as st
+from streamlit_autorefresh import st_autorefresh
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
-st.title("Homepage")
-st.write(f"📅 {datetime.now():%B %d, %Y}")
+st_autorefresh(interval=1000, key="clock_refresh")
+col1, col2 = st.columns(2)
+with col1:
+    st.title("Homepage")
+with col2:
+    tz_name = st.selectbox("Select timezone", ["UTC", "Europe/Berlin", "America/New_York"])
+    tz = ZoneInfo(tz_name)   # e.g. "UTC", "America/New_York", "Asia/Singapore"
+    now = datetime.now(tz).strftime("%H:%M:%S")
+
+col1, col2, col3, col4 = st.columns(4)
+with col1:
+    c1, c2 = st.columns(2)
+    with c1:
+        st.write(f"📅 {datetime.now():%B %d, %Y}")
+    with c2:
+        st.write(f"🕒 {now}")
 
 
 col1, col2 = st.columns(2)
