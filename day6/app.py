@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Multi-Page Demo", layout="wide")
+st.set_page_config(page_title="Data Analysis APP", layout="wide")
 
 home_page   = st.Page("./pages/Home_Page.py", title="Home", icon="🏠")
 hotel_page = st.Page("./pages/Hotel_Page.py", title="Hotel Dashboard", icon="🏨")
